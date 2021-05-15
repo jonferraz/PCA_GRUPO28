@@ -1,2 +1,2 @@
-# PCA_GRUPO28
-Trabalho PCA.py
+# GRUPO28_PCA
+ Jogo Relacionar - PCA
